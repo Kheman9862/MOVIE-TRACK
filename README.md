@@ -23,8 +23,8 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## About This Project
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This is a single page application made using Nextjs which is framework built on top of the react which is helpful for SEO rendering. This is a simple CRUD application which uses different funtions of Nextjs library.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+It also has a server side nodejs API which is hrlping in creating, adding deleting and updating the movies. This code of server side is referenced from the Nextjs Documentation which helps in interacting the application with local json or database file.
